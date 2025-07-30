@@ -136,8 +136,8 @@ Si tienes problemas o preguntas:
 
 ## 📞 Contacto
 
-- **Desarrollador**: [Tu Nombre]
-- **Email**: [tu-email@ejemplo.com]
+- **Desarrollador**: Michael
+- **Email**: maicolalexandervillamizarrodri@gmail.com
 - **GitHub**: [@tu-usuario]
 
 ---
